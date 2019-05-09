@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DaFlappyWae.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>E409A0AD1ECAE4EC25C71503B122D8398355D449</string>
+				<key>dateExpires</key>
+				<string>1/20/19</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>RQR34KRW6S.paul5345.DaFlappyWae</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>RQR34KRW6S</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>RQR34KRW6S.paul5345.DaFlappyWae</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>DaFlappyWae.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>fdd4fdf0-cbeb-49c4-ba3e-9ee48e4d7b8f</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: paul5345.DaFlappyWae</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>RQR34KRW6S</string>
+				<key>name</key>
+				<string>Matthew Izzo</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://apple.com/itunes/importer" version="software5.2">
+    <metadata_token>1516492588650-6221a317a21179eb4efeaa0cce864bcdaf7611b58672911391daa03a08d6447f</metadata_token>
+    <provider>RQR34KRW6S</provider>
+    <team_id>RQR34KRW6S</team_id>
+    <software>
+        <vendor_id>dawae5345</vendor_id>
+        <software_metadata>
+            <in_app_purchases>
+                <in_app_purchase>
+                    <type>subscription</type>
+                </in_app_purchase>
+            </in_app_purchases>
+        </software_metadata>
+    </software>
+</package>
